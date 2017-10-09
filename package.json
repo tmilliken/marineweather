@@ -1,0 +1,22 @@
+{
+  "name": "marineweather",
+  "version": "1.0.0",
+  "description": "marine weather app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmilliken/marineweather.git"
+  },
+  "author": "Thomas Milliken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmilliken/marineweather/issues"
+  },
+  "homepage": "https://github.com/tmilliken/marineweather#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
